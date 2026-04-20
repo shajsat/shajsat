@@ -1,0 +1,25 @@
+# Main Template github
+https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/master/templates
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+# APIs used for the stats:
+
+https://github.com/anuraghazra/github-readme-stats
+https://github.com/DenverCoder1/github-readme-streak-stats
+
+# Stat Demo
+https://gh-stats-gen.vercel.app/
+
+# Streak Demo
+https://streak-stats.demolab.com/demo/
+
+# Skill Icons
+https://skillicons.dev/
+
+# Badge Icons
+https://shields.io/badges
+
+# Markdown type SVG
+https://readme-typing-svg.demolab.com/demo/
