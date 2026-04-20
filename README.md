@@ -1,14 +1,23 @@
-<h1>👨‍💻 Hi, I'm Shajjad</h1>
+<h1 align="center">👨‍💻 Hi, I'm Shajjad</h1>
+<p align="center">
+Frontend Engineer • UI/UX Designer • Odoo Developer
+</p>
 
-Frontend Engineer & UI/UX Designer with 5+ years of experience building modern, high-performance web applications.
+---
 
-→ Turning ideas into scalable digital products & business systems.
+## 🚀 About Me
 
-I help startups and businesses design, develop, and scale user-focused digital solutions from concept to deployment.
+Frontend Engineer & UI/UX Designer with 5+ years of experience building modern, high-performance digital products.
+
+→ I turn ideas into scalable web applications and business systems.
+
+I specialize in designing and developing user-focused digital experiences from concept to production — combining clean UI, strong UX, and scalable architecture.
 
 ## 💼 Work with Me
 
-### 🔥 Platforms
+I help startups and businesses build modern web apps, UI/UX systems, and scalable Odoo-based solutions that solve real business problems.
+
+### 🔥 Connect with Me
 
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-14a800?style=for-the-badge&logo=upwork)](https://www.upwork.com/)
 [![Freelancer](https://img.shields.io/badge/Freelancer-Open-29b2fe?style=flat-square&logo=freelancer)](https://www.freelancer.com/)
@@ -51,9 +60,31 @@ I help businesses build modern, scalable and conversion-focused digital products
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=shajsat&theme=transparent&hide_border=true&short_numbers=true&fire=EB6E1B&ring=EB6E1B&currStreakNum=07A757&sideNums=07A757&sideLabels=07A757&currStreakLabel=EB6E1B&background=07A7570F&dates=417E87&stroke=757575)
 
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=shajsat&theme=transparent&show_icons=true&count_private=true&title_color=07a757&icon_color=07a757&hide_border=true&bg_color=07A7570F)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shajsat&theme=transparent&show_icons=true&count_private=true&title_color=07a757&icon_color=07a757&hide_border=true&bg_color=07A7570F)
 
-<!-- ## 📫 Connect With Me
+## 🌐 Connect & Follow Me
 
-- 💼 Portfolio: (your link)
-- 📧 Email: (your email) -->
+Let’s stay connected across platforms where I share my work, insights, and updates.
+
+<p align="center">
+
+<a href="https://linkedin.com/in/your-profile">
+<img src="https://img.shields.io/badge/LinkedIn-Follow-0077B5?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://facebook.com/your-page">
+<img src="https://img.shields.io/badge/Facebook-Page-1877F2?style=for-the-badge&logo=facebook" />
+</a>
+<a href="https://twitter.com/your-handle">
+<img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" />
+</a>
+<a href="https://youtube.com/@yourchannel">
+<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube" />
+</a>
+
+</p>
+
+<br/>
+
+<p align="center">
+Designing & building digital products that scale businesses, not just websites.
+</p>
