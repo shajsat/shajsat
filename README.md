@@ -11,13 +11,11 @@ I design and develop scalable, user-focused digital products—from concept to d
 
 ## 🚀 Skills & Expertise
 
-- ⚛️ Frontend Development & Component Architecture  
-- 🎨 UI/UX Design & Design Systems  
-- 🧠 Brand & Visual Design  
-- 🌐 CMS & SEO-Focused Websites  
-- ⚙️ Odoo Development & Business Solutions  
-
-
+- ⚛️ Frontend Development & Component Architecture
+- 🎨 UI/UX Design & Design Systems
+- 🧠 Brand & Visual Design
+- 🌐 CMS & SEO-Focused Websites
+- ⚙️ Odoo Development & Business Solutions
 
 ## 🛠️ Tech Stack
 
@@ -38,18 +36,20 @@ I design and develop scalable, user-focused digital products—from concept to d
   <img src="https://skillicons.dev/icons?i=nginx,linux,git,github" />
 </p>
 
-
 ## 💡 Philosophy
 
 > Build fast. Keep it clean. Design with purpose.
 
-
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shajsat&show_icons=true&theme=tokyonight" float="left" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shajsat&theme=tokyonight" float="right" />
-</p>
+<table>
+<td>
+<img src="https://streak-stats.demolab.com?user=shajsat&hide_border=true&short_numbers=true&fire=EB6E1B&ring=EB6E1B&currStreakNum=07A757&sideNums=07A757&sideLabels=07A757&currStreakLabel=EB6E1B&background=07A7570F" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=shajsat&theme=transparent&show_icons=true&count_private=true&title_color=07a757&icon_color=07a757&hide_border=true&bg_color=07A7570F" />
+</td>
+</table>
 
 <!-- ## 📫 Connect With Me
 
