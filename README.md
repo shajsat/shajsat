@@ -1,7 +1,4 @@
-<h1 align="">Hi 👋, I'm Shajjad</h1>
-<h3 align="">Frontend Engineer & UI/UX Specialist</h3>
-
-## 👨‍💻 About Me
+<h1 align="">👨‍💻 Hi, I'm Shajjad</h1>
 
 Frontend Engineer & UI/UX Designer with 5+ years of experience building modern, high-performance web applications.
 
@@ -13,14 +10,11 @@ I design and develop scalable, user-focused digital products—from concept to d
 
 I help startups and businesses build modern web apps, UI/UX systems, and scalable Odoo solutions.
 
-### 🔥 Primary Platform
+### 🔥 Platforms
 
-[![Hire Me on Upwork](https://img.shields.io/badge/Hire%20Me%20on-Upwork-14a800?style=for-the-badge&logo=upwork)](https://www.upwork.com/)
-
-### 🌍 Other Platforms
-
-[![Available on Fiverr](https://img.shields.io/badge/Fiverr-Available-1dbf73?style=flat-square&logo=fiverr)](https://www.fiverr.com/)
-[![Open in Freelancer](https://img.shields.io/badge/Freelancer-Open-29b2fe?style=flat-square&logo=freelancer)](https://www.freelancer.com/)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-14a800?style=for-the-badge&logo=upwork)](https://www.upwork.com/)
+[![Freelancer](https://img.shields.io/badge/Freelancer-Open-29b2fe?style=flat-square&logo=freelancer)](https://www.freelancer.com/)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Available-1dbf73?style=flat-square&logo=fiverr)](https://www.fiverr.com/)
 
 ### 📩 Direct Contact
 
