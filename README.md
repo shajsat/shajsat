@@ -48,8 +48,8 @@ I also work with **Odoo development and deployment**, delivering complete busine
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shajsat&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shajsat" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shajsat&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shajsat&theme=tokyonight" width="49%" />
 </p>
 
 <!-- ## 📫 Connect With Me
