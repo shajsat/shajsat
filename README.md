@@ -9,7 +9,26 @@ I design and develop scalable, user-focused digital products—from concept to d
 
 ✨ Focused on pixel-perfect UI, seamless UX, and performance-driven architecture.
 
+## 💼 Work with Me
+
+I help startups and businesses build modern web apps, UI/UX systems, and scalable Odoo solutions.
+
+### 🔥 Primary Platform
+
+[![Hire Me on Upwork](https://img.shields.io/badge/Hire%20Me%20on-Upwork-14a800?style=for-the-badge&logo=upwork)](https://www.upwork.com/)
+
+### 🌍 Other Platforms
+
+[![Available on Fiverr](https://img.shields.io/badge/Fiverr-Available-1dbf73?style=flat-square&logo=fiverr)](https://www.fiverr.com/)
+[![Open in Freelancer](https://img.shields.io/badge/Freelancer-Open-29b2fe?style=flat-square&logo=freelancer)](https://www.freelancer.com/)
+
+### 📩 Direct Contact
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:you@gmail.com)
+
 ## 🚀 Skills & Expertise
+
+I help businesses build modern, scalable and conversion-focused digital products.
 
 - ⚛️ Frontend Development & Component Architecture
 - 🎨 UI/UX Design & Design Systems
