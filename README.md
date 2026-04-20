@@ -43,12 +43,16 @@ I design and develop scalable, user-focused digital products—from concept to d
 ## 📊 GitHub Stats
 
 <table>
-<td>
+<tbody style="border: none !important;">
+<tr style="border: none !important;">
+<td style="border: none !important;">
 <img src="https://streak-stats.demolab.com?user=shajsat&hide_border=true&short_numbers=true&fire=EB6E1B&ring=EB6E1B&currStreakNum=07A757&sideNums=07A757&sideLabels=07A757&currStreakLabel=EB6E1B&background=07A7570F" />
 </td>
-<td>
+<td style="border: none !important;">
 <img src="https://github-readme-stats.vercel.app/api?username=shajsat&theme=transparent&show_icons=true&count_private=true&title_color=07a757&icon_color=07a757&hide_border=true&bg_color=07A7570F" />
 </td>
+</tr>
+</tbody>
 </table>
 
 <!-- ## 📫 Connect With Me
