@@ -1,22 +1,21 @@
 <h1 align="">Hi 👋, I'm Shajjad</h1>
-<h3 align="">Frontend Engineer & UI/UX Designer</h3>
+<h3 align="">Frontend Engineer & UI/UX Specialist</h3>
 
 ## 👨‍💻 About Me
 
 Frontend Engineer & UI/UX Designer with 5+ years of experience building modern, high-performance web applications.
 
-I specialize in **React, Tailwind CSS, and JavaScript**, with strong design expertise in **Figma, Photoshop, and Illustrator**.  
-I also work with **Odoo development and deployment**, delivering complete business-focused solutions.
+I design and develop scalable, user-focused digital products—from concept to deployment. I also work with business systems like Odoo, delivering complete, real-world solutions.
 
-✨ Focused on **pixel-perfect UI**, **seamless UX**, and **scalable architecture**.
+✨ Focused on pixel-perfect UI, seamless UX, and performance-driven architecture.
 
 ## 🚀 Skills & Expertise
 
-- ⚛️ Frontend Development (React, Tailwind, JavaScript)
-- 🎨 UI/UX Design (Figma, Adobe Suite)
-- 🧠 Brand & Visual Design
-- 🌐 WordPress CMS & SEO Websites
-- ⚙️ Odoo Development & Deployment
+- ⚛️ Frontend Development & Component Architecture  
+- 🎨 UI/UX Design & Design Systems  
+- 🧠 Brand & Visual Design  
+- 🌐 CMS & SEO-Focused Websites  
+- ⚙️ Odoo Development & Business Solutions  
 
 
 
@@ -48,8 +47,8 @@ I also work with **Odoo development and deployment**, delivering complete busine
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shajsat&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shajsat&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shajsat&show_icons=true&theme=tokyonight" float="left" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shajsat&theme=tokyonight" float="right" />
 </p>
 
 <!-- ## 📫 Connect With Me
