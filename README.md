@@ -52,7 +52,7 @@ I also work with **Odoo development and deployment**, delivering complete busine
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shajsat" />
 </p>
 
-## 📫 Connect With Me
+<!-- ## 📫 Connect With Me
 
 - 💼 Portfolio: (your link)
-- 📧 Email: (your email)
+- 📧 Email: (your email) -->
