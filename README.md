@@ -36,13 +36,10 @@ I design and develop scalable, user-focused digital products—from concept to d
   <img src="https://skillicons.dev/icons?i=nginx,linux,git,github" />
 </p>
 
-## 💡 Philosophy
-
-> Build fast. Keep it clean. Design with purpose.
-
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=shajsat&theme=transparent&hide_border=true&short_numbers=true&fire=EB6E1B&ring=EB6E1B&currStreakNum=07A757&sideNums=07A757&sideLabels=07A757&currStreakLabel=EB6E1B&background=07A7570F&dates=417E87&stroke=EB5454)
+![GitHub Streak](https://streak-stats.demolab.com?user=shajsat&theme=transparent&hide_border=true&short_numbers=true&fire=EB6E1B&ring=EB6E1B&currStreakNum=07A757&sideNums=07A757&sideLabels=07A757&currStreakLabel=EB6E1B&background=07A7570F&dates=417E87&stroke=757575)
+
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=shajsat&theme=transparent&show_icons=true&count_private=true&title_color=07a757&icon_color=07a757&hide_border=true&bg_color=07A7570F)
 
 <!-- ## 📫 Connect With Me
