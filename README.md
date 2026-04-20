@@ -1,14 +1,12 @@
-<h1 align="">👨‍💻 Hi, I'm Shajjad</h1>
+<h1>👨‍💻 Hi, I'm Shajjad</h1>
 
 Frontend Engineer & UI/UX Designer with 5+ years of experience building modern, high-performance web applications.
 
-I design and develop scalable, user-focused digital products—from concept to deployment. I also work with business systems like Odoo, delivering complete, real-world solutions.
+→ Turning ideas into scalable digital products & business systems.
 
-✨ Focused on pixel-perfect UI, seamless UX, and performance-driven architecture.
+I help startups and businesses design, develop, and scale user-focused digital solutions from concept to deployment.
 
 ## 💼 Work with Me
-
-I help startups and businesses build modern web apps, UI/UX systems, and scalable Odoo solutions.
 
 ### 🔥 Platforms
 
