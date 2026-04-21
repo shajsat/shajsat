@@ -60,7 +60,7 @@ Core areas where I deliver value:
 
 <p><strong>🧠 Backend & CMS:</strong><br/>
 <a href="#">
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,wordpress" />
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,wordpress" />&nbsp;
   <img src="https://cdn.simpleicons.org/odoo" height="48" />
   </a>
 </p>
