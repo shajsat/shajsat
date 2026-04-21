@@ -11,15 +11,15 @@
 
 ## 🚀 About Me
 
-I am Shajjad Hossain, a Frontend Engineer & UI/UX Designer with 5+ years of experience building modern, high-performance digital products.
+I am Shajjad Hossain, a Frontend Engineer & UI/UX Designer with 5+ years of experience.
 
-→ I turn ideas into scalable web applications and business systems.
+→ I transform ideas into structured, user-focused digital systems.
 
-I specialize in designing and developing user-focused digital experiences from concept to production — combining clean UI, strong UX, and scalable architecture.
+My approach combines intuitive design, performance-focused development, and scalable architecture — ensuring products are not just functional, but efficient and maintainable.
 
 ## 💼 Work with Me
 
-I collaborate with startups and businesses to design, develop, and improve digital products that are fast, scalable, and conversion-focused.
+I collaborate with startups and businesses to create digital solutions that improve usability, performance, and business efficiency.
 
 ### 🔥 Connect with Me
 
@@ -34,7 +34,7 @@ I collaborate with startups and businesses to design, develop, and improve digit
 
 ## 🚀 Skills & Expertise
 
-I help businesses build modern, scalable and conversion-focused digital products.
+Core areas where I deliver value:
 
 - ⚛️ Frontend Development & Component Architecture
 - 🎨 UI/UX Design & Design Systems
