@@ -1,13 +1,15 @@
-<h1 align="center">👨‍💻 Hi, I'm Shajjad</h1>
 <p align="center">
-Frontend Engineer • UI/UX Designer • Odoo Developer
+  <img src="assets/images/SHAJSAT-vartical.png" height="50"/>
+</p>
+<p align="center">
+Frontend Engineer • UI/UX Designer • Odoo Solutions
 </p>
 
 ---
 
 ## 🚀 About Me
 
-Frontend Engineer & UI/UX Designer with 5+ years of experience building modern, high-performance digital products.
+I am Shajjad Hossain with 5+ years of experience building modern, high-performance digital products.
 
 → I turn ideas into scalable web applications and business systems.
 
@@ -15,7 +17,7 @@ I specialize in designing and developing user-focused digital experiences from c
 
 ## 💼 Work with Me
 
-I help startups and businesses build modern web apps, UI/UX systems, and scalable Odoo-based solutions that solve real business problems.
+I collaborate with startups and businesses to design, develop, and improve digital products that are fast, scalable, and conversion-focused.
 
 ### 🔥 Connect with Me
 
