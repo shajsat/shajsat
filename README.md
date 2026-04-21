@@ -67,32 +67,12 @@ Core areas where I deliver value:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shajsat&theme=transparent&show_icons=true&count_private=true&title_color=07a757&icon_color=07a757&hide_border=true&bg_color=07A7570F)
 
-## 🌐 Connect & Follow Me
-
-Let’s stay connected across platforms where I share my work, insights, and updates.
-
-<p align="center">
-
-<a href="https://linkedin.com/in/your-profile">
-<img src="https://img.shields.io/badge/LinkedIn-Follow-0077B5?style=flat-squaree&logo=linkedin" />
-</a>
-<a href="https://facebook.com/your-page">
-<img src="https://img.shields.io/badge/Facebook-Page-1877F2?style=flat-square&logo=facebook" />
-</a>
-<a href="https://twitter.com/your-handle">
-<img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter" />
-</a>
-<a href="https://youtube.com/@yourchannel">
-<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat-square&logo=youtube" />
-</a>
-
-</p>
-
-## 🌐 Connect & Follow Me
-
-Let’s stay connected across platforms where I share my work, insights, and updates.
+---
 
 <div align="center">
+<h3>🌐 Connect</h3>
+
+<p>Follow my work & updates</p>
 
 <a href="https://linkedin.com/in/your-profile">
   <img src="https://cdn.simpleicons.org/linkedin/0077B5" height="28" />
@@ -106,11 +86,6 @@ Let’s stay connected across platforms where I share my work, insights, and upd
 <a href="https://youtube.com/@yourchannel">
   <img src="https://cdn.simpleicons.org/youtube/FF0000" height="28" />
 </a>
-
 </div>
 
 <br/>
-
-<p align="center">
-Designing & building digital products that scale businesses, not just websites.
-</p>
