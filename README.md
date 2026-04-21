@@ -95,16 +95,16 @@ Let’s stay connected across platforms where I share my work, insights, and upd
 <div align="center">
 
 <a href="https://linkedin.com/in/your-profile">
-  <img src="https://cdn.simpleicons.org/linkedin/0077B5" height="28" style="margin: 0 10px;" />
-</a>
+  <img src="https://cdn.simpleicons.org/linkedin/0077B5" height="28" />
+</a>&nbsp;&nbsp;&nbsp;
 <a href="https://facebook.com/your-page">
-  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="28" style="margin: 0 10px;" />
-</a>
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="28" />
+</a>&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/your-handle">
-  <img src="https://cdn.simpleicons.org/x/1DA1F2" height="28" style="margin: 0 10px;" />
-</a>
+  <img src="https://cdn.simpleicons.org/x/1DA1F2" height="28" />
+</a>&nbsp;&nbsp;&nbsp;
 <a href="https://youtube.com/@yourchannel">
-  <img src="https://cdn.simpleicons.org/youtube/FF0000" height="28" style="margin: 0 10px;" />
+  <img src="https://cdn.simpleicons.org/youtube/FF0000" height="28" />
 </a>
 
 </div>
