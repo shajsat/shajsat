@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
   <img src="assets/images/SHAJSAT-vartical.png" height="50"/>
-</p>
+</div>
 <p align="center">
 Frontend Engineer • UI/UX Designer • Odoo Solutions
 </p>
