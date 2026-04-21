@@ -1,14 +1,17 @@
 <div align="center">
+<a href="#">
   <img src="assets/images/SHAJSAT-vartical.png" height="50"/>
+</a>
 </div>
-<h3 align="center">Frontend • UI/UX • Odoo Solutions</h3>
-<p align="center">Designing & Building Scalable Digital Experiences</p>
+<p align="center">Frontend • UI/UX • Odoo Solutions 
+<br>Designing & Building Scalable Digital Experiences</br>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I am Shajjad Hossain with 5+ years of experience building modern, high-performance digital products.
+I am Shajjad Hossain, a Frontend Engineer & UI/UX Designer with 5+ years of experience building modern, high-performance digital products.
 
 → I turn ideas into scalable web applications and business systems.
 
@@ -26,6 +29,7 @@ I collaborate with startups and businesses to design, develop, and improve digit
 
 ### 📩 Direct Contact
 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=flat-square&logo=whatsapp)](https://wa.me/880XXXXXXXXXX)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:you@gmail.com)
 
 ## 🚀 Skills & Expertise
