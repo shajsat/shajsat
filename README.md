@@ -25,14 +25,14 @@ I collaborate with startups and businesses to create digital solutions that impr
 
 ### 🔥 Connect with Me
 
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-14a800?style=for-the-badge&logo=upwork)](https://www.upwork.com/)
-[![Freelancer](https://img.shields.io/badge/Freelancer-Open-29b2fe?style=flat-square&logo=freelancer)](https://www.freelancer.com/)
-[![Fiverr](https://img.shields.io/badge/Fiverr-Available-1dbf73?style=flat-square&logo=fiverr)](https://www.fiverr.com/)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-14a800?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~0173120d2921e2c418)
+[![Freelancer](https://img.shields.io/badge/Freelancer-Open-29b2fe?style=flat-square&logo=freelancer)](https://www.freelancer.com/u/shajsat)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Available-1dbf73?style=flat-square&logo=fiverr)](https://www.fiverr.com/shajsat)
 
 ### 📩 Direct Contact
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=flat-square&logo=whatsapp)](https://wa.me/880XXXXXXXXXX)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:you@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=flat-square&logo=whatsapp)](https://wa.me/8801632202024)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:shajsat.co@gmail.com)
 
 ## 🚀 Skills & Expertise
 
@@ -47,20 +47,28 @@ Core areas where I deliver value:
 ## 🛠️ Tech Stack
 
 <p><strong>🎨 Design:</strong><br/>
+<a href="#">
   <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator" />
+  </a>
 </p>
 
 <p><strong>⚛️ Frontend:</strong><br/>
+<a href="#">
   <img src="https://skillicons.dev/icons?i=react,redux,js,tailwind,bootstrap,html,css" />
+  </a>
 </p>
 
 <p><strong>🧠 Backend & CMS:</strong><br/>
+<a href="#">
   <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,wordpress" />
   <img src="https://cdn.simpleicons.org/odoo" height="48" />
+  </a>
 </p>
 
 <p><strong>⚙️ DevOps:</strong><br/>
+  <a href="#">
   <img src="https://skillicons.dev/icons?i=nginx,linux,git,github" />
+  </a>
 </p>
 
 ## 📊 GitHub Stats
@@ -76,16 +84,25 @@ Core areas where I deliver value:
 
 <p>Follow my work & updates</p>
 
-<a href="https://linkedin.com/in/your-profile">
-  <img src="https://cdn.simpleicons.org/linkedin/0077B5" height="28" />
+<a href="https://www.linkedin.com/in/shajsat/">
+  <img src="https://cdn.simpleicons.org/inspire/0077B5" height="28" />
 </a>&nbsp;&nbsp;&nbsp;
-<a href="https://facebook.com/your-page">
+<a href="https://www.facebook.com/shajsat.co">
   <img src="https://cdn.simpleicons.org/facebook/1877F2" height="28" />
 </a>&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/your-handle">
+<a href="https://www.behance.net/shajsat">
+  <img src="https://cdn.simpleicons.org/behance/1769FF" height="28" />
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/shajsat">
   <img src="https://cdn.simpleicons.org/x/1DA1F2" height="28" />
 </a>&nbsp;&nbsp;&nbsp;
-<a href="https://youtube.com/@yourchannel">
+<a href="https://www.youtube.com/@shajsat">
   <img src="https://cdn.simpleicons.org/youtube/FF0000" height="28" />
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.pinterest.com/shajsat/">
+  <img src="https://cdn.simpleicons.org/pinterest/BD081C" height="28" />
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/shajsat.co/">
+  <img src="https://cdn.simpleicons.org/instagram/FF0069" height="28" />
 </a>
 </div>
