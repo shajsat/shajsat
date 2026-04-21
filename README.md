@@ -1,10 +1,12 @@
 <div align="center">
 <a href="#">
-  <img src="assets/images/SHAJSAT-vartical.png" height="50"/>
+  <img src="assets/images/SHAJSAT-vartical.png" height="70"/>
 </a>
 </div>
-<p align="center">Frontend • UI/UX • Odoo Solutions 
-<br>Designing & Building Scalable Digital Experiences</br>
+<p align="center">
+Frontend • UI/UX • Odoo Solutions 
+<br/>
+Designing & Building Scalable Digital Experiences
 </p>
 
 ---
@@ -87,5 +89,3 @@ Core areas where I deliver value:
   <img src="https://cdn.simpleicons.org/youtube/FF0000" height="28" />
 </a>
 </div>
-
-<br/>
