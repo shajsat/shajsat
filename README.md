@@ -74,19 +74,40 @@ Let’s stay connected across platforms where I share my work, insights, and upd
 <p align="center">
 
 <a href="https://linkedin.com/in/your-profile">
-<img src="https://img.shields.io/badge/LinkedIn-Follow-0077B5?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Follow-0077B5?style=flat-squaree&logo=linkedin" />
 </a>
 <a href="https://facebook.com/your-page">
-<img src="https://img.shields.io/badge/Facebook-Page-1877F2?style=for-the-badge&logo=facebook" />
+<img src="https://img.shields.io/badge/Facebook-Page-1877F2?style=flat-square&logo=facebook" />
 </a>
 <a href="https://twitter.com/your-handle">
-<img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" />
+<img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter" />
 </a>
 <a href="https://youtube.com/@yourchannel">
-<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube" />
+<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat-square&logo=youtube" />
 </a>
 
 </p>
+
+## 🌐 Connect & Follow Me
+
+Let’s stay connected across platforms where I share my work, insights, and updates.
+
+<div align="center">
+
+<a href="https://linkedin.com/in/your-profile">
+  <img src="https://cdn.simpleicons.org/linkedin/0077B5" height="28" style="margin: 0 10px;" />
+</a>
+<a href="https://facebook.com/your-page">
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="28" style="margin: 0 10px;" />
+</a>
+<a href="https://twitter.com/your-handle">
+  <img src="https://cdn.simpleicons.org/x/1DA1F2" height="28" style="margin: 0 10px;" />
+</a>
+<a href="https://youtube.com/@yourchannel">
+  <img src="https://cdn.simpleicons.org/youtube/FF0000" height="28" style="margin: 0 10px;" />
+</a>
+
+</div>
 
 <br/>
 
