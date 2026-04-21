@@ -69,7 +69,7 @@ Core areas where I deliver value:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shajsat&theme=transparent&show_icons=true&title_color=07a757&icon_color=07a757&hide_border=true&bg_color=07A7570F)
 
-## ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shajsat&theme=github-compact)
+---
 
 <div align="center">
 <h3>🌐 Connect</h3>
