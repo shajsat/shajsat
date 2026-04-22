@@ -67,7 +67,7 @@ Core areas where I deliver value:
 
 <p><strong>⚙️ DevOps:</strong><br/>
   <a href="#">
-  <img src="https://skillicons.dev/icons?i=nginx,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=nginx,linux,git,github,gitlab" />
   </a>
 </p>
 
