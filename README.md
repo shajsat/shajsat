@@ -13,7 +13,7 @@ Design & Build Scalable Digital Experiences
 
 ## 🚀 About Me
 
-I am Shajjad Hossain, a Frontend Engineer & UI/UX Designer with 5+ years of experience.
+Hi! I am Shajjad, a Frontend Engineer & UI/UX Designer with 5+ years of experience.
 
 → I transform ideas into structured, user-focused digital systems.
 
