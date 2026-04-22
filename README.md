@@ -6,7 +6,7 @@
 <p align="center">
 Frontend • UI/UX • Odoo Solutions 
 <br/>
-Designing & Building Scalable Digital Experiences
+Stronger design • Smarter Systems
 </p>
 
 ---
