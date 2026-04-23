@@ -13,11 +13,11 @@ Design & Build Scalable Digital Experiences
 
 ## 🚀 About Me
 
-👋 Hi, I'm Shajjad, a Frontend Engineer & UI/UX Designer with 5+ years of experience.
+👋 Hi, I'm Shajjad, a Frontend Engineer & UI/UX Designer with expertise in Odoo solutions.
 
-→ I transform ideas into structured, user-focused digital systems.
+→ I turn ideas into structured, user-focused digital systems.
 
-My approach combines intuitive design, performance-focused development, and scalable architecture — ensuring products are not just functional, but efficient and maintainable.
+I combine intuitive design, performance-driven development, and scalable architecture — building products that are efficient, maintainable, and built for real-world use.
 
 ## 💼 Work with Me
 
