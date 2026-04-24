@@ -18,6 +18,8 @@ Design & Build Scalable Digital Experiences
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-555555?style=for-the-badge&logo=whatsapp)](https://wa.me/8801632202024)
 [![Email](https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=gmail)](mailto:shajsat.co@gmail.com)
 
+[![Profile Views](https://komarev.com/ghpvc/?username=shajsat&flat-square&color=lightgrey&abbreviated=true&label=PROFILE+VIEWS)](#)
+
 </div>
 
 ---
