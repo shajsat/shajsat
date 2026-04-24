@@ -27,14 +27,14 @@ Design & Build Scalable Digital Experiences
 ## 👨‍💻 About Me
 
 👋 Hi, I'm Shajjad — a Frontend Engineer & UI/UX Designer with expertise in Odoo solutions.  
-→ I turn ideas into structured, user-focused, business-ready digital systems.  
+→ I turn ideas into structured, user-focused, and business-ready digital systems.  
 I build scalable, efficient, and maintainable products with a focus on design, performance, and architecture.
 
 ## 🚀 Featured Projects
 
 ### 🔹 Selim Azam CMS (Project Lead)
 
-Modular CMS system designed for scalability and SEO optimization.
+_Modular CMS for scalable content and faster SEO performance._
 
 - Reduced content duplication by 40%
 - Improved SEO indexing speed by 50%
@@ -44,7 +44,7 @@ Modular CMS system designed for scalability and SEO optimization.
 
 ### 🔹 AmitaSoft Dashboard (Frontend Developer)
 
-Role-based web application with scalable frontend architecture.
+_Role-based web application with scalable frontend architecture._
 
 - Improved usability and workflow by 35%
 - Implemented secure, dynamic UI for all user roles
