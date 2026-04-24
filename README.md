@@ -42,6 +42,17 @@ _Modular CMS for scalable content and faster SEO performance._
 
 🔗 [Visit Site](https://selimazam.com)
 
+### 🔹 Sankrrish Website (Odoo Website & Deployment)
+
+_Full website design, development, and production deployment using Odoo._
+
+- Designed complete UI/UX for a business-focused website
+- Developed and customized Odoo website components
+- Deployed on production server with domain, SSL & Nginx
+- Structured pages for performance and SEO optimization
+
+🔗 [Visit Site](https://www.sankrrish.com/)
+
 ### 🔹 AmitaSoft Dashboard (Frontend Developer)
 
 _Role-based web application with scalable frontend architecture._
