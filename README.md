@@ -9,30 +9,30 @@ Frontend • UI/UX • Odoo Solutions
 Design & Build Scalable Digital Experiences
 </p>
 
+<div align="center">
+
+[![Upwork](https://img.shields.io/badge/Upwork-555555?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~0173120d2921e2c418)
+[![Freelancer](https://img.shields.io/badge/Freelancer-555555?style=for-the-badge&logo=freelancer)](https://www.freelancer.com/u/shajsat)
+[![Fiverr](https://img.shields.io/badge/Fiverr-555555?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/shajsat)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-555555?style=for-the-badge&logo=whatsapp)](https://wa.me/8801632202024)
+[![Email](https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=gmail)](mailto:shajsat.co@gmail.com)
+
+</div>
+
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-👋 Hi, I'm Shajjad, a Frontend Engineer & UI/UX Designer with expertise in Odoo solutions.
-
+<p>
+👋 Hi, I'm Shajjad — a Frontend Engineer & UI/UX Designer with expertise in Odoo solutions.
+</P>
+<p>
 → I turn ideas into structured, user-focused digital systems.
-
-I combine intuitive design, performance-driven development, and scalable architecture — building products that are efficient, maintainable, and built for real-world use.
-
-## 💼 Work with Me
-
-I collaborate with startups and businesses to create digital solutions that improve usability, performance, and business efficiency.
-
-### 🔥 Connect with Me
-
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-14a800?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~0173120d2921e2c418)
-[![Freelancer](https://img.shields.io/badge/Freelancer-Open-29b2fe?style=flat-square&logo=freelancer)](https://www.freelancer.com/u/shajsat)
-[![Fiverr](https://img.shields.io/badge/Fiverr-Available-1dbf73?style=flat-square&logo=fiverr)](https://www.fiverr.com/shajsat)
-
-### 📩 Direct Contact
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=flat-square&logo=whatsapp)](https://wa.me/8801632202024)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:shajsat.co@gmail.com)
+</P>
+<p>
+I build scalable, efficient, and maintainable products with a focus on design, performance, and architecture.
+</P>
 
 ## 🚀 Skills & Expertise
 
