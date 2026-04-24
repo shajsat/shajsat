@@ -103,24 +103,24 @@ Core areas where I deliver value:
 <p>Explore my work & updates</p>
 
 <a href="https://www.linkedin.com/in/shajsat/">
-  <img src="https://cdn.simpleicons.org/inspire/0077B5" height="28" />
+  <img src="https://cdn.simpleicons.org/inspire/0077B5" height="27" />
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/shajsat.co">
-  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="28" />
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="27" />
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.behance.net/shajsat">
-  <img src="https://cdn.simpleicons.org/behance/1769FF" height="28" />
+  <img src="https://cdn.simpleicons.org/behance/1769FF" height="27" />
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://x.com/shajsat">
-  <img src="https://cdn.simpleicons.org/x/1DA1F2" height="28" />
+  <img src="https://cdn.simpleicons.org/x/1DA1F2" height="27" />
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/@shajsat">
-  <img src="https://cdn.simpleicons.org/youtube/FF0000" height="28" />
+  <img src="https://cdn.simpleicons.org/youtube/FF0000" height="27" />
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.pinterest.com/shajsat/">
-  <img src="https://cdn.simpleicons.org/pinterest/BD081C" height="28" />
+  <img src="https://cdn.simpleicons.org/pinterest/BD081C" height="27" />
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/shajsat.co/">
-  <img src="https://cdn.simpleicons.org/instagram/FF0069" height="28" />
+  <img src="https://cdn.simpleicons.org/instagram/FF0069" height="27" />
 </a>
 </div>
