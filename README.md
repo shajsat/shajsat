@@ -40,7 +40,7 @@ _Modular CMS for scalable content and faster SEO performance._
 - Improved SEO indexing speed by 50%
 - Built dynamic layouts for flexible content management
 
-🔗 Live: https://selimazam.com
+🔗 [Visit Site](https://selimazam.com)
 
 ### 🔹 AmitaSoft Dashboard (Frontend Developer)
 
@@ -50,7 +50,7 @@ _Role-based web application with scalable frontend architecture._
 - Implemented secure, dynamic UI for all user roles
 - Built theming system to speed up design updates
 
-🔗 Live: https://amitasoft.com
+🔗 [Visit Site](https://amitasoft.com)
 
 ## 🧠 Skills & Expertise
 
