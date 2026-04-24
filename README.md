@@ -30,7 +30,29 @@ Design & Build Scalable Digital Experiences
 → I turn ideas into structured, user-focused digital systems.  
 I build scalable, efficient, and maintainable products with a focus on design, performance, and architecture.
 
-## 🚀 Skills & Expertise
+## 🚀 Featured Projects
+
+### 🔹 Selim Azam CMS (Project Lead)
+
+Modular CMS system designed for scalability and SEO optimization.
+
+- Reduced content duplication by 40%
+- Improved SEO indexing speed by 50%
+- Built dynamic layouts for flexible content management
+
+🔗 Live: https://selimazam.com
+
+### 🔹 AmitaSoft Dashboard (Frontend Developer)
+
+Role-based web application with scalable frontend architecture.
+
+- Improved usability and workflow by 35%
+- Implemented secure, dynamic UI for all user roles
+- Built theming system to speed up design updates
+
+🔗 Live: https://amitasoft.com
+
+## 🧠 Skills & Expertise
 
 Core areas where I deliver value:
 
