@@ -26,25 +26,19 @@ Design & Build Scalable Digital Experiences
 
 ## 👨‍💻 About Me
 
-<p>
-👋 Hi, I'm Shajjad — a Frontend Engineer & UI/UX Designer with expertise in Odoo solutions.
-</P>
-<p>
-→ I turn ideas into structured, user-focused digital systems.
-</P>
-<p>
+👋 Hi, I'm Shajjad — a Frontend Engineer & UI/UX Designer with expertise in Odoo solutions.  
+→ I turn ideas into structured, user-focused digital systems.  
 I build scalable, efficient, and maintainable products with a focus on design, performance, and architecture.
-</P>
 
 ## 🚀 Skills & Expertise
 
 Core areas where I deliver value:
 
-- ⚛️ Frontend Development & Component Architecture
-- 🎨 UI/UX Design & Design Systems
-- 🧠 Brand & Visual Design
-- 🌐 CMS & SEO-Focused Websites
-- ⚙️ Odoo Development & Business Solutions
+- Frontend Development & Component Architecture
+- UI/UX Design & Design Systems
+- Brand & Visual Design
+- CMS & SEO-Focused Websites
+- Odoo Development & Business Solutions
 
 ## 🛠️ Tech Stack
 
