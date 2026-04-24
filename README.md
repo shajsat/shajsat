@@ -82,7 +82,7 @@ Core areas where I deliver value:
 <div align="center">
 <h3>🌐 Connect</h3>
 
-<p>Follow my work & updates</p>
+<p>Explore my work & updates</p>
 
 <a href="https://www.linkedin.com/in/shajsat/">
   <img src="https://cdn.simpleicons.org/inspire/0077B5" height="28" />
