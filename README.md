@@ -32,6 +32,24 @@ I build scalable, efficient, and maintainable products with a focus on design, p
 
 ## 🚀 Featured Projects
 
+### 🔹 Odoo ERP & Website Implementations
+
+_Real-world Odoo projects covering ERP setup and website deployment for corporate, service, product, and organizational use._
+
+- Designed complete UI/UX for a business-focused website
+- Developed and customized Odoo website components
+- Deployed on production server with domain, SSL & Nginx
+- Structured pages for performance and SEO optimization
+
+### Live Projects
+
+🔗 [Ozybiz – Business Website](https://www.sankrrish.com/)  
+🔗 [Sankrrish – Corporate Website](https://www.sankrrish.com/)  
+🔗 [Nitto Jinish – Product Website](https://nittojinish.com/)  
+🔗 [AJ Waha – Service Website](https://www.ajwaha.com/)  
+🔗 [CWCS – Organization Website](https://www.cwcsbd.org/)  
+🔗 [Humaira Khan – Personal Branding Website](https://humairakhanbd.com/)
+
 ### 🔹 Selim Azam CMS (Project Lead)
 
 _Modular CMS for scalable content and faster SEO performance._
@@ -40,18 +58,7 @@ _Modular CMS for scalable content and faster SEO performance._
 - Improved SEO indexing speed by 50%
 - Built dynamic layouts for flexible content management
 
-🔗 [Visit Site](https://selimazam.com)
-
-### 🔹 Sankrrish Website (Odoo Website & Deployment)
-
-_Full website design, development, and production deployment using Odoo._
-
-- Designed complete UI/UX for a business-focused website
-- Developed and customized Odoo website components
-- Deployed on production server with domain, SSL & Nginx
-- Structured pages for performance and SEO optimization
-
-🔗 [Visit Site](https://www.sankrrish.com/)
+🔗 [Selim Azam – Official Website](https://selimazam.com/en/)
 
 ### 🔹 AmitaSoft Dashboard (Frontend Developer)
 
@@ -61,7 +68,7 @@ _Role-based web application with scalable frontend architecture._
 - Implemented secure, dynamic UI for all user roles
 - Built theming system to speed up design updates
 
-🔗 [Visit Site](https://amitasoft.com)
+🔗 [AmitaSoft – Web Application](https://amitasoft.com/)
 
 ## 🧠 Skills & Expertise
 
