@@ -45,11 +45,12 @@ _Real-world Odoo projects covering ERP implementation and production-ready websi
 
 Production deployments across multiple industries:
 
-🔗 [Ozybiz – Business Website](https://www.ozybiz.com.au/)  
-🔗 [Sankrrish – Corporate Website](https://www.sankrrish.com/)  
-🔗 [Nitto Jinish – Product Website](https://nittojinish.com/)  
-🔗 [AJ Waha – Service Website](https://www.ajwaha.com/)  
-🔗 [CWCS – Organization Website](https://www.cwcsbd.org/)  
+🔗 [Ozybiz – Multi-Branch ERP & Business Website](https://www.ozybiz.com.au/)  
+🔗 [Tirzok ERP – Custom UI/UX, Animations & Brand System](https://www.tirzokerp.com/)  
+🔗 [Sankrrish – Corporate Website with Business Workflow](https://www.sankrrish.com/)  
+🔗 [AJ Waha – Multi-Branch Service Platform](https://www.ajwaha.com/)  
+🔗 [Nitto Jinish – Product-Focused Website](https://nittojinish.com/)  
+🔗 [CWCS – Organization Website with CRM Integration](https://www.cwcsbd.org/)  
 🔗 [Humaira Khan – Personal Branding Website](https://humairakhanbd.com/)
 
 ### 🔹 Selim Azam CMS (Project Lead)
