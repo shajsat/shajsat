@@ -4,9 +4,9 @@
 </a>
 </div>
 <p align="center">
-Frontend • UI/UX • Odoo Solutions 
+Odoo ERP Developer • Frontend • UI/UX
 <br/>
-Design & Build Scalable Digital Experiences
+Building and Deploying Scalable Digital Systems
 </p>
 
 <div align="center">
@@ -26,22 +26,24 @@ Design & Build Scalable Digital Experiences
 
 ## 👨‍💻 About Me
 
-👋 Hi, I'm Shajjad — a Frontend Engineer & UI/UX Designer with expertise in Odoo solutions.  
-→ I turn ideas into structured, user-focused, and business-ready digital systems.  
-I build scalable, efficient, and maintainable products with a focus on design, performance, and architecture.
+👋 Hi, I'm Shajjad — an Odoo ERP Developer with a strong background in Frontend and UI/UX.
+
+→ I build and deploy real-world, business-ready systems using Odoo, combining scalable architecture with clean, user-focused design.
 
 ## 🚀 Featured Projects
 
-### 🔹 Odoo ERP & Website Implementations
+### 🔹 Odoo ERP Implementations & Web Systems
 
-_Real-world Odoo projects covering ERP setup and website deployment for corporate, service, product, and organizational use._
+_Real-world Odoo projects covering ERP implementation and production-ready website deployment across corporate, service, product, and organizational use cases._
 
-- Designed complete UI/UX for a business-focused website
-- Developed and customized Odoo website components
-- Deployed on production server with domain, SSL & Nginx
-- Structured pages for performance and SEO optimization
+- Designed and implemented business-focused UI/UX
+- Customized Odoo website components and frontend behavior
+- Deployed production systems with domains, SSL, and Nginx
+- Optimized structure for performance and SEO
 
 ### Live Projects
+
+Production deployments across multiple industries:
 
 🔗 [Ozybiz – Business Website](https://www.ozybiz.com.au/)  
 🔗 [Sankrrish – Corporate Website](https://www.sankrrish.com/)  
@@ -70,15 +72,13 @@ _Role-based web application with scalable frontend architecture._
 
 🔗 [AmitaSoft – Web Application](https://amitasoft.com/)
 
-## 🧠 Skills & Expertise
+## 🧠 Core Expertise
 
-Core areas where I deliver value:
-
-- Frontend Development & Component Architecture
-- UI/UX Design & Design Systems
-- Brand & Visual Design
-- CMS & SEO-Focused Websites
-- Odoo Development & Business Solutions
+- Odoo ERP Implementation and Website Development
+- UI/UX Design and Design Systems
+- Frontend Development
+- WordPress Design and Setup
+- Server Deployment and Configuration
 
 ## 🛠️ Tech Stack
 
