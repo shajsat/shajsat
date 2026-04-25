@@ -34,42 +34,30 @@ Building and Deploying Scalable Digital Systems
 
 ### 🔹 Odoo ERP Implementations & Web Systems
 
-_Real-world Odoo projects covering ERP implementation and production-ready website deployment across corporate, service, product, and organizational use cases._
+Production deployments across multiple industries.
 
-- Designed and implemented business-focused UI/UX
-- Customized Odoo website components and frontend behavior
-- Deployed production systems with domains, SSL, and Nginx
-- Optimized structure for performance and SEO
+#### ⭐ Featured: Sankrrish – Corporate Website
 
-### Live Projects
+- Designed business-focused UI/UX
+- Implemented workflow-driven structure
+- Deployed production-ready system with domain & SSL
 
-Production deployments across multiple industries:
+🔗 [Visit Site](https://www.sankrrish.com/)
+
+### More Live Projects
 
 🔗 [Ozybiz – Multi-Branch ERP & Business Website](https://www.ozybiz.com.au/)  
 🔗 [Tirzok ERP – Custom UI/UX, Animations & Brand System](https://www.tirzokerp.com/)  
-🔗 [Sankrrish – Corporate Website with Business Workflow](https://www.sankrrish.com/)  
 🔗 [AJ Waha – Multi-Branch Service Platform](https://www.ajwaha.com/)  
 🔗 [Nitto Jinish – Product-Focused Website](https://nittojinish.com/)  
 🔗 [CWCS – Organization Website with CRM Integration](https://www.cwcsbd.org/)  
 🔗 [Humaira Khan – Personal Branding Website](https://humairakhanbd.com/)
 
-### 🔹 Selim Azam CMS (Project Lead)
-
-_Modular CMS for scalable content and faster SEO performance._
-
-- Reduced content duplication by 40%
-- Improved SEO indexing speed by 50%
-- Built dynamic layouts for flexible content management
+### 🔹 Django CMS and Web Systems
 
 🔗 [Selim Azam – Official Website](https://selimazam.com/en/)
 
-### 🔹 AmitaSoft Dashboard (Frontend Developer)
-
-_Role-based web application with scalable frontend architecture._
-
-- Improved usability and workflow by 35%
-- Implemented secure, dynamic UI for all user roles
-- Built theming system to speed up design updates
+### 🔹 React Development
 
 🔗 [AmitaSoft – Web Application](https://amitasoft.com/)
 
