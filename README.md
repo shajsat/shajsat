@@ -43,7 +43,7 @@ _Real-world Odoo projects covering ERP setup and website deployment for corporat
 
 ### Live Projects
 
-🔗 [Ozybiz – Business Website](https://www.sankrrish.com/)  
+🔗 [Ozybiz – Business Website](https://www.ozybiz.com.au/)  
 🔗 [Sankrrish – Corporate Website](https://www.sankrrish.com/)  
 🔗 [Nitto Jinish – Product Website](https://nittojinish.com/)  
 🔗 [AJ Waha – Service Website](https://www.ajwaha.com/)  
