@@ -46,7 +46,7 @@ Production deployments across multiple industries.
 
 #### More Live Projects
 
-🔗 [Ozybiz AU– Multi-Branch ERP & Business Website](https://www.ozybiz.com.au/)  
+🔗 [Ozybiz – Multi-Branch ERP & Business Website](https://www.ozybiz.com.au/)  
 🔗 [Tirzok ERP – Custom UI/UX, Animations & Brand System](https://www.tirzokerp.com/)  
 🔗 [AJ Waha – Multi-Branch Service Platform](https://www.ajwaha.com/)  
 🔗 [Nitto Jinish – Product-Focused Website](https://nittojinish.com/)  
