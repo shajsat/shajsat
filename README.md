@@ -44,7 +44,7 @@ Production deployments across multiple industries.
 
 🔗 [Visit Site](https://www.sankrrish.com/)
 
-### More Live Projects
+#### More Live Projects
 
 🔗 [Ozybiz – Multi-Branch ERP & Business Website](https://www.ozybiz.com.au/)  
 🔗 [Tirzok ERP – Custom UI/UX, Animations & Brand System](https://www.tirzokerp.com/)  
