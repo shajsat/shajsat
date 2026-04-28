@@ -63,11 +63,11 @@ Production deployments across multiple industries.
 
 ## 🧠 Core Expertise
 
-- Odoo ERP Implementation and Website Development
-- UI/UX Design and Design Systems
-- Frontend Development
-- WordPress Design and Setup
-- Server Deployment and Configuration
+✔ Odoo ERP Development, Customization & Deployment  
+✔ Frontend Development  
+✔ UI/UX Design  
+✔ WordPress Website Design & Deployment  
+✔ Server Setup & Deployment
 
 ## 🛠️ Tech Stack
 
