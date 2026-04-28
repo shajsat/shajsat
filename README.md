@@ -4,7 +4,7 @@
 </a>
 </div>
 <p align="center">
-Odoo ERP Developer • Frontend • UI/UX
+Odoo ERP Developer • Frontend & UI/UX Specialist
 <br/>
 Building and Deploying Scalable Digital Systems
 </p>
