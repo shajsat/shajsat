@@ -71,35 +71,35 @@ Production deployments across multiple industries.
 ## 🛠️ Tech Stack
 
 <p><strong>🎨 Design:</strong><br/>
-<a href="#">
+<a href="#%EF%B8%8F-tech-stack">
   <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator" />
   </a>
 </p>
 
 <p><strong>⚛️ Frontend:</strong><br/>
-<a href="#">
+<a href="#%EF%B8%8F-tech-stack">
   <img src="https://skillicons.dev/icons?i=react,redux,js,tailwind,bootstrap,html,css" />
   </a>
 </p>
 
 <p><strong>🧠 Backend & CMS:</strong><br/>
-<a href="#">
+<a href="#%EF%B8%8F-tech-stack">
   <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,wordpress" />&nbsp;
   <img src="https://cdn.simpleicons.org/odoo" height="48" />
   </a>
 </p>
 
 <p><strong>⚙️ DevOps:</strong><br/>
-  <a href="#">
+  <a href="#%EF%B8%8F-tech-stack">
   <img src="https://skillicons.dev/icons?i=nginx,linux,git,github,gitlab" />
   </a>
 </p>
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shajsat&theme=transparent&hide_border=true&short_numbers=true&fire=EB6E1B&ring=EB6E1B&currStreakNum=07A757&sideNums=07A757&sideLabels=07A757&currStreakLabel=EB6E1B&background=07A7570F&dates=417E87&stroke=757575&card_width=500)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shajsat&theme=transparent&hide_border=true&short_numbers=true&fire=EB6E1B&ring=EB6E1B&currStreakNum=07A757&sideNums=07A757&sideLabels=07A757&currStreakLabel=EB6E1B&background=07A7570F&dates=417E87&stroke=757575&card_width=500)](#-github-stats)
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=shajsat&theme=transparent&card_width=500&show_icons=true&title_color=07a757&icon_color=07a757&hide_border=true&bg_color=07A7570F)
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=shajsat&theme=transparent&card_width=500&show_icons=true&title_color=07a757&icon_color=07a757&hide_border=true&bg_color=07A7570F)](#-github-stats)
 
 ---
 
