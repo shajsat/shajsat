@@ -114,7 +114,7 @@ Production deployments across multiple industries.
 <a href="https://www.facebook.com/shajsat.co">
   <img src="https://cdn.simpleicons.org/facebook/1877F2" height="27" />
 </a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.behance.net/shajsat">
+<!-- <a href="https://www.behance.net/shajsat">
   <img src="https://cdn.simpleicons.org/behance/1769FF" height="27" />
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://x.com/shajsat">
@@ -128,5 +128,5 @@ Production deployments across multiple industries.
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/shajsat.co/">
   <img src="https://cdn.simpleicons.org/instagram/FF0069" height="27" />
-</a>
+</a> -->
 </div>
