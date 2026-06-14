@@ -48,7 +48,6 @@ Production deployments across multiple industries.
 
 🔗 [AJ Waha – Multi-Branch Service Platform](https://www.ajwaha.com/)  
 🔗 [Tirzok ERP – Custom UI/UX, Animations & Brand System](https://www.tirzokerp.com/)  
-🔗 [Nitto Jinish – Product-Focused Website](https://nittojinish.com/)  
 🔗 [CWCS – Organization Website with CRM Integration](https://www.cwcsbd.org/)  
 🔗 [Humaira Khan – Personal Branding Website](https://humairakhanbd.com/)
 
