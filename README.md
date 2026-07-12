@@ -11,7 +11,7 @@ Building and Deploying Scalable Digital Systems
 
 <div align="center">
 
-[![Upwork](https://img.shields.io/badge/Upwork-555555?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~0173120d2921e2c418)
+[![Upwork](https://img.shields.io/badge/Upwork-555555?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/shajsat)
 [![Freelancer](https://img.shields.io/badge/Freelancer-555555?style=for-the-badge&logo=freelancer)](https://www.freelancer.com/u/shajsat)
 [![Fiverr](https://img.shields.io/badge/Fiverr-555555?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/shajsat)
 
