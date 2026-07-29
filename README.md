@@ -96,7 +96,7 @@ Production deployments across multiple industries.
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shajsat&theme=transparent&hide_border=true&short_numbers=true&fire=EB6E1B&ring=EB6E1B&currStreakNum=07A757&sideNums=07A757&sideLabels=07A757&currStreakLabel=EB6E1B&background=07A7570F&dates=417E87&stroke=757575&card_width=500)](#-github-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shajsat&theme=transparent&hide_border=true&short_numbers=true&fire=EB6E1B&ring=EB6E1B&currStreakNum=07A757&sideNums=07A757&sideLabels=07A757&currStreakLabel=EB6E1B&background=07A7570F&dates=417E87&stroke=757575&card_width=500)](#-github-stats)
 
 [![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=shajsat&theme=transparent&card_width=500&show_icons=true&title_color=07a757&icon_color=07a757&hide_border=true&bg_color=07A7570F)](#-github-stats)
 
