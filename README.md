@@ -30,6 +30,14 @@ Building and Deploying Scalable Digital Systems
 
 → I build and deploy real-world, business-ready systems using Odoo, combining scalable architecture with clean, user-focused design.
 
+### 🧠 Core Expertise
+
+✔ Odoo ERP Customization & Integration  
+✔ React Frontend Development  
+✔ UI/UX Design  
+✔ WordPress Website Design  
+✔ VPS & Server Management  
+
 ## 🚀 Featured Projects
 
 ### 🔹 Odoo ERP Implementations & Web Systems
@@ -58,14 +66,6 @@ Production deployments across multiple industries.
 ### 🔹 React Development
 
 🔗 [AmitaSoft – Web Application](https://amitasoft.com/)
-
-## 🧠 Core Expertise
-
-✔ Odoo ERP Development, Customization & Deployment  
-✔ Frontend Development  
-✔ UI/UX Design  
-✔ WordPress Website Design & Deployment  
-✔ Server Setup & Deployment
 
 ## 🛠️ Tech Stack
 
